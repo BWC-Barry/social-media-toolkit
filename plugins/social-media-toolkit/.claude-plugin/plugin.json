@@ -1,0 +1,18 @@
+{
+  "name": "social-media-toolkit",
+  "version": "1.0.0",
+  "description": "Barry's social media skills voor nightlife en horeca. Account-agnostisch en bruikbaar voor elke zaak.",
+  "author": {
+    "name": "Tim Poelmans",
+    "email": "tim@bwc-concepts.nl"
+  },
+  "homepage": "https://github.com/BWC-Barry/social-media-toolkit",
+  "license": "Proprietary",
+  "keywords": ["social-media", "instagram", "marketing", "nightlife", "branding"],
+  "commands": [],
+  "agents": [],
+  "skills": [
+    "./skills/brand-mapper",
+    "./skills/social-media-poster"
+  ]
+}

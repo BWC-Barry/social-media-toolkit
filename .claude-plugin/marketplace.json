@@ -1,0 +1,24 @@
+{
+  "name": "social-media-toolkit",
+  "owner": {
+    "name": "Tim Poelmans",
+    "email": "tim@bwc-concepts.nl"
+  },
+  "description": "Universele social media skills voor nightlife en horeca: brand-mapper (zaak in kaart brengen) en social-media-poster (posts maken op basis van brand-context). Werkt voor elke zaak op elk Claude-account.",
+  "plugins": [
+    {
+      "name": "social-media-toolkit",
+      "source": "./plugins/social-media-toolkit",
+      "description": "Twee skills voor social media-automatisering: brand-mapper en social-media-poster. Account-agnostisch en bruikbaar voor elk concept.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tim Poelmans",
+        "email": "tim@bwc-concepts.nl"
+      },
+      "homepage": "https://github.com/BWC-Barry/social-media-toolkit",
+      "license": "Proprietary",
+      "keywords": ["social-media", "instagram", "marketing", "nightlife", "branding", "content"],
+      "strict": false
+    }
+  ]
+}
