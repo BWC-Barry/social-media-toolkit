@@ -1,0 +1,4 @@
+# Lokale werk-files, niet pushen naar publieke repo
+docs/
+*.log
+.DS_Store
