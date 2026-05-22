@@ -105,24 +105,25 @@ Dit vond ik zelf wel cool toen ik 't doorhad:
 
 ---
 
-## 5. De toolkit installeren (3 minuten)
+## 5. De toolkit installeren (2 minuten)
 
 Doe dit samen met Tim of Niek de eerste keer, zodat ze meekijken als er iets vastloopt.
 
 1. Open de **Claude desktop app**
-2. Zorg dat **Cowork mode** aan staat (linksboven in de app, een toggle)
-3. Ga naar **Settings → Plugins → Marketplaces**
-4. Klik op **"Add marketplace"**
-5. Plak deze regel:
+2. Ga naar **Customize** (knop in het hoofdmenu)
+3. Klik op **Browse plugins**
+4. Klik op het tabblad **Personal**
+5. Klik op het **plusje** (+) om een nieuwe plugin toe te voegen
+6. Plak deze regel in het veld:
 
    ```
    BWC-Barry/social-media-toolkit
    ```
 
-6. Klik **OK** of **Add**
-7. Je ziet nu "Social Media Toolkit" in je lijst → klik op **Install**
-8. Bevestigen dat je beide skills installeert (brand-mapper en social-media-poster)
-9. Klaar. Barry weet nu hoe 'ie deze twee skills moet gebruiken.
+7. Bevestigen (Enter)
+8. Klik op **Install**
+9. Bevestig dat je beide skills installeert (brand-mapper en social-media-poster)
+10. Klaar. Barry weet nu hoe 'ie deze twee skills moet gebruiken.
 
 **Hoe weet je dat het werkte?**
 
