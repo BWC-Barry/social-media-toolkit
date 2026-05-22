@@ -302,11 +302,22 @@ en welke kant we volgen]
 
 ### Stap 7 — Delen met het team via de marketplace
 
-Vraag de gebruiker:
+Vraag de gebruiker met expliciete waarschuwing over publieke zichtbaarheid:
 
-> "Wil je deze brand-context delen met het team? Dan kopieer ik het bestand naar
-> de marketplace-folder en push 'm naar GitHub. Vanaf dat moment hebben alle
-> collega's met de BWC Skills Marketplace toegang tot deze context."
+> "Wil je deze brand-context delen met het team via de marketplace?
+>
+> Let op: de social-media-toolkit repo is publiek. Als je 'ja' zegt, wordt deze
+> brand-context op GitHub publiek leesbaar. Dat betekent: tone of voice, vaste
+> partners, Drive-paden en alle voorbeelden zijn voor iedereen op internet
+> zichtbaar (concurrenten kunnen ze lezen).
+>
+> Geen wachtwoorden of klantdata, dus geen security risico. Wel een vorm van
+> marketing-IP openbaar maken.
+>
+> Voor BWC en KO doorgaans prima omdat veel info al op de feed te zien is.
+> Twijfel je? Houd 'm lokaal en deel via Drive of mail.
+>
+> Doorgaan met pushen?"
 
 **Bij JA:**
 
